@@ -1,0 +1,36 @@
+name: af2seq
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.8
+  - absl-py=0.13.0
+  - biopython=1.78
+  - chex=0.1.0
+  - dm-haiku=0.0.5
+  - dm-tree=0.1.6
+  - immutabledict=2.0.0
+  - jax=0.2.27
+  - numpy=1.19.5
+  - pandas=1.3.4
+  - scipy=1.7.0
+  - tensorflow-cpu=2
+  - ca-certificates
+  - certifi
+  - openssl
+  - pip=21.2.4
+  - optax=0.1.0
+  - tqdm
+  - matplotlib
+  - seaborn
+  - py3dmol
+  - pymol-open-source
+  - pdbfixer
+  - openmm=7.5.1
+  - pip:
+    - contextlib2==21.6.0
+    - iminuit==1.5.4
+    - ml-collections==0.1.0
+    - pyyaml==6.0
+    - tmscoring==0.4.post0
