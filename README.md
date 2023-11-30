@@ -8,7 +8,9 @@ pyrosetta has to be installed seperately:
 `conda install -c https://NAME:PASSWORD@conda.graylab.jhu.edu pyrosetta`  
 Please refer to the pyrosetta webpage for detailed instructions
 
-Alphafold weigths can be dowloaded according to the instructions on the official AlphaFold repo.
+Alphafold weigths can be dowloaded according to the instructions on the official AlphaFold repo:
+https://github.com/google-deepmind/alphafold#model-parameters  
+
 
 Go to the repository folder and run:  
 `pip install .`
