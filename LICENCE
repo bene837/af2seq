@@ -1,0 +1,25 @@
+Non-Commercial License Agreement
+
+This license is a legally binding agreement between Ecole Polytechnique Federale de Lausanne (EPFL), Bâtiment CE – 3.316, Station 1, CH - 1015 Lausanne, Switzerland ("the Licensor") and licensee end user ("the Licensee") setting forth the terms and conditions governing the use and operation of EPFL's proprietary computer software products called "AF2seq" available under this GitHub repository ("af2seq"). By downloading and installing, copying or otherwise using the Program, and/or otherwise accepting this License, the Licensee agrees to be bound by the terms and conditions of this License. If the Licensee does not agree to or accept the terms of this Agreement, the Licensee may not access or use the Program.
+	
+The Licensee will access to the source code or a compiled version of the Program, under the following conditions (hereafter: the "Agreement"):
+
+1.	EPFL grants to the Licensee a fully-paid up, non-exclusive, and non-transferable license (hereafter the "License") to use the Program for academic, non-commercial purposes, upon the terms and conditions hereinafter set out.
+
+2.	The Program is used solely for non-commercial purposes, which means academic, or government-funded research which (a) is not undertaken for profit, or (b) is not intended to produce works, services, or data for commercial use, or (c) is neither conducted, nor funded, by a person or an entity engaged in the commercial use, application or exploitation of works similar to the Program.
+
+3.	No parts of the Program may be copied or re-used to form a new program, nor included in other existing programs or codes. Title to the Program and all associated intellectual property rights, including without limitation copyrights and any patent or patent application, is retained by EPFL.
+
+4.	The copyright headers present in the source code files may not be removed or modified.
+
+5.	Licensee is encouraged to make modifications to the Program available to EPFL, which EPFL can choose to accept or refuse. If the modifications are accepted by EPFL, Licensee shall sign a contributor license agreement (CLA) as specified in the code repository CONTRIBUTING.md file. It is understood that this implies granting the right to EPFL to make Licensee's modifications available to all other holders of a license for the Program.
+
+6.	Licensee agrees to transfer, distribute or make available the Program, including any modifications or improvements, to any third parties only for academic, non-commercial purposed under this License terms and Agreement. The Licensee shall include a copy of this License Agreement in any such cases.
+
+7.	Licensee accepts that the Program is provided on an AS-IS basis without any warranty either express or implied, including but not limited to warranties of fitness for a particular purpose, or other conditions of any kind. To extent not prohibited by law, in no event will EPFL be liable for any lost revenue, profit or data, or for special, direct, indirect, consequential, incidental or punitive damages arising out of or related to the use or inability to use the Program. 
+
+8.	Results produced by Licensee while using the Program shall be owned by Licensee. Licensee shall make acknowledgements to the appropriate publications depending on the use of the Program, as detailed in the CITATION file included in the code repository.
+
+9.	This Agreement shall be governed by the material laws of Switzerland and any dispute arising out of this Agreement or use of the Program shall be brought be-fore the courts of Lausanne, Switzerland. 
+
+10.	This License is perpetual but can be terminated by the Licensor in case where Li-censee (i) became insolvent or otherwise entered into any liquidation process, (ii) exported the Program to any jurisdiction where Licensor may not enforce his rights under this Agreement (iii) Licensee breach any of this License's terms and condi-tions and such breach is not cured, immediately upon notification (iv) Licensee otherwise entered into any arrangement which caused Licensor to be unable to enforce his rights under this License. Upon termination, Licensee must destroy all copies of the Program. 
